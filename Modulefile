@@ -1,4 +1,4 @@
-name    'tomo0-profile'
+name    'tomo0-site'
 version '0.1.0'
 source ''
 author ''

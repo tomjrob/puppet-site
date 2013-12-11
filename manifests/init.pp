@@ -10,6 +10,5 @@
 #
 # Sample Usage:
 #
-class profile {
 
-}
+class site {}
