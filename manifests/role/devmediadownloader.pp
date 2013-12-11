@@ -1,4 +1,4 @@
-class role::devmediadownloader { 
+class site::role::devmediadownloader { 
   include profile::common
   include profile::media
 }

@@ -1,3 +1,3 @@
-class profile::common {
+class site::profile::common {
   include ssh
 }
