@@ -1,4 +1,4 @@
-class role::dev_lucy_MediaDownloader { 
+class role::devmediadownloader { 
   include profile::common
   include profile::media
 }
